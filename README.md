@@ -4,6 +4,7 @@
 OneToMany_Hibernate_Mapping
 
 
+
 mysql> show tables;
 +-----------------------------+
 | Tables_in_hibernate_mapping |
@@ -13,6 +14,7 @@ mysql> show tables;
 | student_laptop              |
 +-----------------------------+
 3 rows in set (0.00 sec)
+
 
 mysql> select * from laptop;
 +-----------+-------------+
@@ -25,6 +27,7 @@ mysql> select * from laptop;
 |     51235 | Lenovo      |
 +-----------+-------------+
 5 rows in set (0.00 sec)
+
 
 mysql> select * from student;
 +--------+-------+-------+
